@@ -1,3 +1,5 @@
+If you are having troubles opening the files in this repository you can use https://nbviewer.jupyter.org/ or open this link: https://nbviewer.jupyter.org/github/ZhivkoB3/Predicting-wine-quality/blob/main/Predicting%20wine%20quality.ipynb
+
 ### Predicting wine quality
 
 As the weather warms up, you may find yourself walking into a wine shop and instinctively grabbing for a tall, thin bottle, tinted green and sealed with a screw top, anticipating the satisfaction of the light, bubbly, crisp white wine known as Vinho Verde. (Do you?)
