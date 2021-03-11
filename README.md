@@ -1,4 +1,4 @@
-# Predicting-wine-quality
+### Predicting wine quality
 
 As the weather warms up, you may find yourself walking into a wine shop and instinctively grabbing for a tall, thin bottle, tinted green and sealed with a screw top, anticipating the satisfaction of the light, bubbly, crisp white wine known as Vinho Verde. (Do you?)
 
