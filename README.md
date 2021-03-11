@@ -2,6 +2,7 @@ If you are having troubles opening the files in this repository you can use http
 
 ### Predicting wine quality
 
+##### Abstract:<br>
 As the weather warms up, you may find yourself walking into a wine shop and instinctively grabbing for a tall, thin bottle, tinted green and sealed with a screw top, anticipating the satisfaction of the light, bubbly, crisp white wine known as Vinho Verde. (Do you?)
 
 On a summer afternoon, it’s really the perfect drink, and can take you into the evening by becoming a fantastic dinner wine. Although Vinho Verde’s popularity in the last decade has surged, there are a lot of misconceptions out there about this affordable and versatile wine. In fact, there’s far more to Vinho Verde than a little spritz—and Portuguese wine culture in general is full of history and intrigue. Surprise your friends at the next barbeque by serving them some knowledge about Vinho Verde as you fill their glasses with the wine.
@@ -11,7 +12,7 @@ In the lush, green, rolling hills of northern Portugal, dotted with the orange r
 
 Comprised of nine sub-regions in the Douro Valley, each with unique micro-climates but generally dominated by granitic soils, the Vinho Verde wine region starts just below the Portuguese-Spanish border, and extends all the way to the Atlantic Ocean, where it meets with the city of Port (where most Port wine is made). The region is also fairly wet and rainy, as two rivers run through it, the Douro and Minho.
 
-Data Set Information:
+##### Data Set Information:<br>
 
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
